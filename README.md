@@ -9,3 +9,7 @@ Created a small chrome extension which waits for changes on a webpage and extrac
 
 3. **[January 31, 2017](#)** [2D Localization, Android app to publish ROS Commands](#).  
 Wrote code in python for 2D Localization. Basically computing the probability of a robots position based on movement and sensing. Code available at [localization_2d.py](https://gist.github.com/ahhda/95a82080d2df5abf1dd2b3f1173ebcec). Also made an android app to control a [lizi robot](http://wiki.ros.org/lizi_robot) using Gyroscope by publishing a [Twist command](http://docs.ros.org/api/geometry_msgs/html/msg/Twist.html) to cmd_vel topic over a network.
+
+4. **[February 1, 2017](#)** [1D Kalman Filter](#).  
+Wrote code in python for implmenting a 1D Kalman Filter. The Kalman filter is a popular technique for estimating the state of a system. Kalman filters estimate a continuous state and gives a
+uni­modal distribution. The code takes two functions, update and predict, and feeds them into a sequence of measurements and motions. Code available at [kalmanfilter_1d.py](https://gist.github.com/ahhda/05cd395f1c95b89e391d07ac8de979ba).
