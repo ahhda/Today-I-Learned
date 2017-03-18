@@ -17,5 +17,5 @@ uni­modal distribution. The code takes two functions, update and predict, and f
 5. **[February 10, 2017](#)** [Particle Filter, Hector SLAM](#).  
 Wrote code in python for implmenting Particle Filter. Particle Filters are a sequence of algorithms for estimating the state of a system. They are really easy to code and work for multimodal distribution. However they scale exponentially. Code available at [particle_filter.py](https://gist.github.com/ahhda/9fb89a42750c1b33cc913f2a27f610b0). Also setup Hector SLAM and Hector navigation for Lizi robot. Wrote a small blog post at: [geekinsideyou.com/hector-slam-ros](http://geekinsideyou.com/hector-slam-ros/). 
 
-6. **[February 10, 2017](#)** [Windows Form App, Nodejs Chat App](#).  
+6. **[March 18, 2017](#)** [Windows Form App, Nodejs Chat App](#).  
 Wrote a simple chat app in Nodejs and hosted on [heroku](https://limitless-island-41567.herokuapp.com/). Followed the tutorial on [deploy on heroku](https://devcenter.heroku.com/articles/getting-started-with-nodejs#deploy-the-app) and [nodejs chat](https://enlight.ml/nodejs-chat).
