@@ -19,3 +19,6 @@ Wrote code in python for implmenting Particle Filter. Particle Filters are a seq
 
 6. **[March 18, 2017](#)** [Windows Form App, Nodejs Chat App](#).  
 Wrote a simple chat app in Nodejs and hosted on [heroku](https://limitless-island-41567.herokuapp.com/). Followed the tutorial on [deploy on heroku](https://devcenter.heroku.com/articles/getting-started-with-nodejs#deploy-the-app) and [nodejs chat](https://enlight.ml/nodejs-chat).
+
+7. **[March 30, 2017](#)** [Nodejs multiplayer game, Build my own VPN](#).  
+Wrote a simple multiplayer game in Nodejs and hosted on [heroku](https://radiant-ravine-92944.herokuapp.com/). Followed the tutorial on [HackerNoon](https://hackernoon.com/how-to-build-a-multiplayer-browser-game-4a793818c29b). Also made my own VPN service using Amazon AWS and [sshuttle](https://github.com/apenwarr/sshuttle). sshuttle is a transparent proxy server that works as a VPN. Can now download torrents :D.
